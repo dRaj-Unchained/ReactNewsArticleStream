@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dRaj-Unchained/ReactNewsArticleStream/static/css/main.a7f3e29b.chunk.css",
+    "main.js": "/dRaj-Unchained/ReactNewsArticleStream/static/js/main.be7f4128.chunk.js",
+    "main.js.map": "/dRaj-Unchained/ReactNewsArticleStream/static/js/main.be7f4128.chunk.js.map",
+    "runtime-main.js": "/dRaj-Unchained/ReactNewsArticleStream/static/js/runtime-main.c0ddc068.js",
+    "runtime-main.js.map": "/dRaj-Unchained/ReactNewsArticleStream/static/js/runtime-main.c0ddc068.js.map",
+    "static/css/2.fc5a9450.chunk.css": "/dRaj-Unchained/ReactNewsArticleStream/static/css/2.fc5a9450.chunk.css",
+    "static/js/2.f1103755.chunk.js": "/dRaj-Unchained/ReactNewsArticleStream/static/js/2.f1103755.chunk.js",
+    "static/js/2.f1103755.chunk.js.map": "/dRaj-Unchained/ReactNewsArticleStream/static/js/2.f1103755.chunk.js.map",
+    "index.html": "/dRaj-Unchained/ReactNewsArticleStream/index.html",
+    "precache-manifest.3d09f09f3663e79dd5f5d6985ba79153.js": "/dRaj-Unchained/ReactNewsArticleStream/precache-manifest.3d09f09f3663e79dd5f5d6985ba79153.js",
+    "service-worker.js": "/dRaj-Unchained/ReactNewsArticleStream/service-worker.js",
+    "static/css/2.fc5a9450.chunk.css.map": "/dRaj-Unchained/ReactNewsArticleStream/static/css/2.fc5a9450.chunk.css.map",
+    "static/css/main.a7f3e29b.chunk.css.map": "/dRaj-Unchained/ReactNewsArticleStream/static/css/main.a7f3e29b.chunk.css.map",
+    "static/js/2.f1103755.chunk.js.LICENSE.txt": "/dRaj-Unchained/ReactNewsArticleStream/static/js/2.f1103755.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dRaj-Unchained/ReactNewsArticleStream/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0ddc068.js",
+    "static/css/2.fc5a9450.chunk.css",
+    "static/js/2.f1103755.chunk.js",
+    "static/css/main.a7f3e29b.chunk.css",
+    "static/js/main.be7f4128.chunk.js"
+  ]
+}
