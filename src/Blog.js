@@ -6,7 +6,6 @@ import { InboxOutlined } from '@ant-design/icons';
 import NewsTab from '../src/Tabs';
 import SubscriptionCard from '../src/Subscription'
 import _ from 'underscore';
-import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 import './App.css';
 
 
