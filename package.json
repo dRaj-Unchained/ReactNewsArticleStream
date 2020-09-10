@@ -2,9 +2,10 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dRaj-Unchained.github.io/ReactNewsArticleStream",
+  "homepage": ".",
   "dependencies": {
     "antd": "^4.4.3",
+    "aws-sdk": "^2.734.0",
     "cra-template": "1.0.3",
     "html-react-parser": "^0.13.0",
     "react": "^16.13.1",
@@ -18,7 +19,9 @@
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "firebaseini": "firebase-tools init",
+    "firebasedep": "firebase-tools init"
   },
   "eslintConfig": {
     "extends": "react-app"

@@ -1,6 +1,7 @@
 const getArticle=()=>{
     return [
             {
+                id:'243523',
                 source:'S&amp;P place',
                 title:'UK banks COVID-19 loan losses',
                 subTitle:'Under £80B',
@@ -78,7 +79,8 @@ const getArticle=()=>{
               </div>`
             },
             {
-              source:'S&amp;P place',
+                id:'534253',
+                source:'S&amp;P place',
               title:'US futures fall',
               subTitle:'Disney results due EXTRA',
               content:`<div class="section-content section-content-growable content Tutorial-content">
@@ -135,6 +137,7 @@ const getArticle=()=>{
             </div>`
           },
           {
+            id:'7346374',
             source:'S&amp;P place',
             title:'TVA rescinds plan to layoff',
             subTitle:'2 states probing utility',
@@ -204,7 +207,8 @@ const getArticle=()=>{
           </div>`
         },
         {
-          source:'S&amp;P place',
+         id:'87453',
+         source:'S&amp;P place',
           title:'US bankruptcies',
           subTitle:'hit 10-year high as pandemic',
           content:`<div class="section-content section-content-growable content Tutorial-content">
@@ -265,7 +269,8 @@ const getArticle=()=>{
         </div>`
       },
       {
-        source:'S&amp;P place',
+         id:'76564',
+         source:'S&amp;P place',
         title:'Trump signs executive orders',
         subTitle:'By  Mark Anthony Gubagaras',
         content:`<div class="section-content section-content-growable content Tutorial-content">
